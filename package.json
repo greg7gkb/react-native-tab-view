@@ -1,6 +1,6 @@
 {
   "name": "react-native-tab-view",
-  "version": "0.0.74",
+  "version": "0.1.74",
   "description": "Tab view component for React Native",
   "main": "src/index.js",
   "files": [
@@ -34,6 +34,7 @@
   },
   "homepage": "https://github.com/react-native-community/react-native-tab-view#readme",
   "dependencies": {
+    "@react-native-community/viewpager": "^4.0.0",
     "prop-types": "^15.6.0"
   },
   "devDependencies": {
